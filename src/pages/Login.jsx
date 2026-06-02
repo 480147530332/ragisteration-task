@@ -64,7 +64,7 @@ export default function Login() {
       <div className="lpage__left" aria-hidden="true">
         <div className="brand">
           <div className="brand__icon">✦</div>
-          <h2 className="brand__name">Nexus</h2>
+          <h2 className="brand__name">Ekodex Tech</h2>
           <p className="brand__tagline">Good to have you back.</p>
         </div>
         <ul className="feature-list">
